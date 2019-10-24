@@ -129,14 +129,4 @@
   width: 100%;
 }
 
-@media (max-width: 825px) {
-  .blue-wave {
-    margin-top: 50%;
-  }
-}
 
-@media (max-width: 650px) {
-  .blue-wave {
-    margin-top: 60%;
-  }
-}

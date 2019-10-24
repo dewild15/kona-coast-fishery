@@ -130,3 +130,10 @@
 }
 
 
+@media (max-width: 1000px) {
+  .blue-wave {
+    margin-top: 20%;
+  }
+}
+
+

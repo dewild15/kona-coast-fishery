@@ -1,0 +1,142 @@
+.body {
+  text-align: center;
+}
+
+.kc-nav {
+  background-color: #074684;
+}
+
+.kc-head {
+  color: #fff;
+  font-family: 'Merienda', cursive;
+  font-size: 3.5rem;
+  margin-left: 12.5%;
+}
+
+.hamburger-items {
+  color: #fff;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family: 'Merienda', cursive;
+  text-align: center;
+}
+
+.hamb-items {
+  margin-left: 20%;
+}
+
+.dot-1 {
+  margin-top: 5%;
+  height: 25px;
+  width: 25px;
+  background-color: #074684;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 3% 1%;
+}
+
+.dot-2 {
+  margin-top: 5%;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #1469ba;
+  margin: 3% 1%;
+}
+
+.dot-3 {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: #1469ba;
+  display: inline-block;
+  margin: 4% 1%;
+}
+
+.dot-4 {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: #074684;
+  display: inline-block;
+  margin: 4% 1%;
+}
+
+.logo {
+  width: 100%;
+}
+
+.saying {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #074684;
+  padding: 20px 25px;
+  line-height: 1.2;
+}
+
+.saying-2 {
+  padding: 0px 15%;
+  line-height: 1.5;
+}
+
+.saying-3 {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #074684;
+    padding: 0px 10%;
+    line-height: 1.5;
+}
+
+.saying-4 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #074684;
+  line-height: 1.5;
+  margin: 0px 10px;
+}
+
+.saying-5 {
+  color: #074684;
+  padding: 0px 10%;
+  line-height: 1.5;
+  font-family: 'Merienda', cursive;
+  font-size: 5rem;
+}
+
+.saying-6 {
+  color: #074684;
+  padding: 0px 20%;
+  line-height: 1.5;
+  font-family: 'Merienda', cursive;
+}
+
+.col-lg-4 {
+  left: 15px;
+}
+
+.mission {
+  position: relative;
+}
+
+.blue-wave {
+  width: 100%;
+  height: auto;
+  opacity: 0.6;
+}
+
+.center {
+  position: absolute;
+  left: 0;
+  top: -3%;
+  width: 100%;
+}
+
+@media (max-width: 825px) {
+  .blue-wave {
+    margin-top: 30%;
+  }
+}
+
+@media (max-width: 650px) {
+  .blue-wave {
+    margin-top: 50%;
+  }
+}

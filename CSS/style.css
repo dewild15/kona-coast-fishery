@@ -136,4 +136,63 @@
   }
 }
 
+/* Eco Friendly */
+
+.eco-1 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #074684;
+  padding: 40px 17%;
+  line-height: 1.5;
+}
+
+.eco-2 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #dd6b4d;
+  line-height: 1.5;
+  font-size: 10.5rem;
+  text-align: right;
+}
+
+.eco-3 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #074684;
+  padding: 10px 5%;
+  text-align: left;
+  font-size: 3rem;
+}
+
+.eco-4 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #1469ba;
+  padding: 0px 5%;
+  line-height: 1.5;
+  text-align: left;
+  font-size: 2rem;
+}
+
+.eco-5 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #074684;
+  padding: 10px 5%;
+  text-align: right;
+  font-size: 3rem;
+}
+
+.eco-6 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #1469ba;
+  padding: 0px 5%;
+  line-height: 1.5;
+  text-align: right;
+  font-size: 2rem
+}
+
+.eco-7 {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #dd6b4d;
+  line-height: 1.5;
+  font-size: 10.5rem;
+  text-align: left;
+  padding: 0px 5%;
+}
 
